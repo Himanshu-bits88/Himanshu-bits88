@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi, I'm Himanshu Kumar 👋
+**BCA Final Year @ BRABU | MERN Stack Developer | Muzaffarpur, Bihar - 842002**
 
-<!--
-**Himanshu-bits88/Himanshu-bits88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **🌟 MAIN PORTFOLIO:** https://himanshu-kumar-muzaffarpur.vercel.app/
 
-Here are some ideas to get you started:
+### 🚀 My 8 Live Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| # | Project Name | Live Link |
+|---|---|---|
+| 1 | **MAIN PORTFOLIO** | [⭐ Vercel](https://himanshu-kumar-muzaffarpur.vercel.app/) |
+| 2 | **HK Tools Lab - 20+ Tools** | [Netlify](https://himanshukumarmuzaffarpuralltools.netlify.app/) |
+| 3 | **Book Details & Purchases** | [Netlify](https://hksinghbookdetailspurchases.netlify.app/) |
+| 4 | **HK Singh Publication App** | [Netlify](https://hksinghpublicationapp.netlify.app/) |
+| 5 | **HK Publication Web App** | [Netlify](https://hksinghpublicationappwebs.netlify.app/) |
+| 6 | **Story for Child & Adults** | [Netlify](https://hksinghstorychildandadults.netlify.app/) |
+| 7 | **HK Publication Bio** | [Vercel](https://hksinghpublicationbio-flax.vercel.app/) |
+| 8 | **Coding Book - Purchase** | [Google Sites](https://sites.google.com/view/hksinghcoding-programmingbook/home/purchase) |
+
+### 📫 Connect With Me
+- 📧 Email: hk955539@gmail.com
+- 💼 LinkedIn: [himanshu-kumar-2b8418355](https://www.linkedin.com/in/himanshu-kumar-2b8418355)
+- 📍 Muzaffarpur, Bihar - 842002
+
+### 🛠️ Tech Stack
+`React` `Next.js` `MongoDB` `Node.js` `Java` `C` `SQL`
